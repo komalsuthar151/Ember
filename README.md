@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # mydemo
 
 This README outlines the details of collaborating on this Ember application.
@@ -59,4 +59,3 @@ Specify what it takes to deploy your app.
 =======
 # Ember
 Ember.js
->>>>>>> d571b47e26b2ec55ddf56c1c0c26d4a630e12dca
